@@ -4,7 +4,7 @@
 
 <h1>Domain Name Service - Building Intuition for DNS</h1>
 
-In this tutorial I will use 2 Virtual Machines to do a few excercises with DNS, hopefully we build my intuition around how certain things with DNS work. Basically DNS just convert name(such as www.google.com) into IP addresses(8.8.8.8)
+In this tutorial I will use 2 Virtual Machines to do a few excercises with DNS, hopefully I build more intuition around how certain things with DNS work. Basically DNS just convert name(such as www.google.com) into IP addresses(8.8.8.8)
 
 <h2>Objectives</h2>
 
